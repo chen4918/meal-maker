@@ -1,0 +1,1 @@
+This is a simple exercise to practice using getters and setters in JavaScript. The app will select a random combination of food items from a menu (one appetizer, one course, and one dessert) and display the compilation as well as the total price to the user.
